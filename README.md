@@ -34,6 +34,8 @@ If you work on biomimage analysis, you have to understand your images. No except
 
 https://www.denbi.de/online-training-media-library/919-introduction-to-bioimaging
 
+https://www.bioimagingguide.org/welcome.html
+
 (more information will be added soon)
 
 
